@@ -1,0 +1,17 @@
+basic commands
+
+1.To create a new project -  ng new project-name/  ng new project-name --routing
+
+2.To run an Angular project -  ng serve --open/ ng serve
+
+3.to generate component  -ng g c component-name
+
+
+basic building blocks
+
+1.Module - to import third party libraries - (root module-AppModule)
+
+2.Component  -To create html,css,ts file (root component  -AppComponent)
+
+3.Data binding - share data inside component
+    3.1 - one way binding
